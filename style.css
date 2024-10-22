@@ -1,0 +1,36 @@
+body {
+    background-color : orange
+}
+.mynav a {
+    padding:10px 20px;
+    background-color: rgb(78, 81, 102);
+    color:white
+}
+.section1 {
+    background-color: rgb(78, 81, 102); 
+    width: 60%;
+    margin-left: 20%;
+    color:white;
+}
+.section2 {
+    background-color: rgb(78, 81, 102);
+    width: 60%;
+    margin-left: 20%;
+    color:white;
+}
+
+* {
+    box-sizing: border-box;
+}
+.column {
+    float:left;
+    padding: 10px;
+}
+.left {
+    width: 45%;
+    height: 500px;
+}
+.right {
+    width: 55%;
+    height:500px;
+}
